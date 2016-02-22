@@ -1,0 +1,15 @@
+{
+  "name": "genesis-core",
+  "version": "0.0.3",
+  "description": "the core module that cordinates everything inside the genesis server, cannpt be used alone...still work in progress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "genesis",
+    "core"
+  ],
+  "author": "BransonGitomeh",
+  "license": "MIT"
+}
